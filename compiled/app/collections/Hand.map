@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "Hand.js",
+  "sourceRoot": "../../..",
+  "sources": [
+    "app/collections/Hand.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA;mSAAA;;AAAA,EAAM,MAAM,CAAC;AAEX,2BAAA,CAAA;;;;KAAA;;AAAA,mBAAA,KAAA,GAAO,IAAP,CAAA;;AAAA,mBAEA,UAAA,GAAY,SAAC,KAAD,EAAS,UAAT,GAAA;AAA6B,MAArB,IAAC,CAAA,kCAAA,aAAY,MAAQ,CAA7B;IAAA,CAFZ,CAAA;;gBAAA;;KAFwB,QAAQ,CAAC,WAAnC,CAAA;AAAA"
+}
