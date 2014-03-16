@@ -3,8 +3,11 @@ class window.HandView extends Backbone.View
   className: 'hand'
 
   template: _.template '
-    <div></div>
+    <button class="endTurn-button">End Turn</button><div>Player:</div>
   '
+  events:
+    "click .endTurn-button": ->
+      @collection.endTurn()
 
   initialize: (params)->
     @render()

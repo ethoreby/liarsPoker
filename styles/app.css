@@ -1,6 +1,7 @@
 .card {
   height: 200px;
   width: 150px;
+  float: left;
   border: 1px solid black;
   margin: 5px;
   text-align: center;

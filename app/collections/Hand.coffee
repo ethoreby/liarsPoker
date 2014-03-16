@@ -4,4 +4,5 @@ class window.Hand extends Backbone.Collection
 
   initialize: (cards, @playerName= "Josh")->
 
-
+  endTurn: ->
+    @trigger 'endTurn', @
